@@ -248,6 +248,7 @@ class xls_output extends CI_Controller {
             'my_language' => "流利语言/方言",
             'address' => "地址",
             'work_status' => "工作现状",
+            'servicetime' => "服务时长(小时)",
             'health_care' => "医疗保健",
             'computer_tec' => "电脑技术",
             'handmade' => "手工制作",
