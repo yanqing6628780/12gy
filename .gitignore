@@ -4,3 +4,10 @@
 */cache/*
 !*/cache/index.html
 !*/cache/.htaccess
+
+swf/
+
+excel/
+
+uploads/*
+!uploads/index.html
